@@ -244,8 +244,8 @@
                 <artifactId>aip-java-sdk</artifactId>
                 <version>${baidu.version}</version>
                 <scope>system</scope>
-            <!--<systemPath>${project.basedir}/../sdk-jar/baidu/aip-java-sdk-4.11.1.jar</systemPath>-->
-        </dependency>
+                <systemPath>${project.basedir}/lib/aip-java-sdk-4.11.1.jar</systemPath>
+            </dependency>
         <!-- fastdfs客服端 -->
             <dependency>
                 <groupId>com.luhuiguo</groupId>
